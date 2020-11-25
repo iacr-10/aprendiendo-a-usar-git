@@ -1,13 +1,8 @@
 body{
     text-align: center;
-    font-family: serif;
+    font-family: helvetica;
     color: brown;
     background-color: darkgray;
-}
-
-conteiner{
-    border-radius: 2px;
-    border: black;
 }
 
 h1{
