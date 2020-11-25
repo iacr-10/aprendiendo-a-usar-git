@@ -1,7 +1,12 @@
 body{
     text-align: center;
+<<<<<<< HEAD
     font-family: helvetica;
     color: brown;
+=======
+    font-family: serif;
+    color: white;
+>>>>>>> cabecera
     background-color:blue;
 }
 
