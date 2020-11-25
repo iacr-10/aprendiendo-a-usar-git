@@ -5,9 +5,9 @@ body{
     background-color: darkgray;
 }
 
-conteiner{
-    border-radius: 2px;
-    border: black;
+#cabecera{
+    background-color: chartreuse;
+    color: cornsilk;
 }
 
 h1{
