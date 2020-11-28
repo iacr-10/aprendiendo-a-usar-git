@@ -2,12 +2,19 @@ body{
     text-align: center;
     font-family: serif;
     color: white;
-    background-color: red;
+    background-color: black;
 }
 
 #cabecera{
     background-color: chartreuse;
     color: cornsilk;
+}
+
+#footer{
+    background-color: rgb(18, 6, 37);
+    color: rgb(230, 32, 144);
+    font-family:'Times New Roman';
+    padding: 0.5%;
 }
 
 h1{
